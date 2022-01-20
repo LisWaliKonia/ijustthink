@@ -1,8 +1,20 @@
--yup
-
-userids = {
-[826506326] = true,
-[1233123] = true,
-[1232121] = true
+jnzisshit = {
+[2642273350] = true,
+[3007573715] = true,
+[3185297194] = true,
+[2585563292] = true,
+[3171622446] = true,
+[86904086] = true,
+[2837699693] = true,
+[82145241] = true,
+[1853302594] = true,
+[2644291939] = true,
+[2444417765] = true,
+[118755855] = true,
+[2380010081] = true,
+[4] = true,
+[5] = true,
+[6] = true,
+[7]= true
 }
-return userids
+return jnzisshit
