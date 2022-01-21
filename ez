@@ -15,6 +15,9 @@ jnzisshit = {
 [1463526005] = true,
 [1115602887] = true,
 [3123754786] = true,
-[7]= true
+[1] = true,
+[2] = true,
+[3] = true,
+[2705990758] = true
 }
 return jnzisshit
