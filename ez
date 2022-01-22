@@ -1,4 +1,4 @@
-jnzisshit = {
+stop = {
 [2642273350] = true,
 [3007573715] = true,
 [3185297194] = true,
@@ -52,4 +52,4 @@ jnzisshit = {
 [4] = true,
 [9] = true
 }
-return jnzisshit
+return stop
