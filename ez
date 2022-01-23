@@ -60,8 +60,9 @@ stop = {
 [3158359119] = true,
 [8628629] = true,
 [3094962289] = true,
-[3] = true,
-[4] = true,
-[9] = true
+[451040412] = true,
+[2378166117] = true,
+[1] = true,
+[2702323232] = true
 }
 return stop
