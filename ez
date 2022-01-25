@@ -87,6 +87,6 @@ stop = {
 [1879793696] = true,
 [349661306] = true,
 [8] = true,
-[2702323232] = true
+[1] = true
 }
 return stop
