@@ -8,7 +8,7 @@ local Blacklist = {
 
 for _, Player in pairs(Blacklist) do
     if game.Players.LocalPlayer.Name == Player then
-        game.Players.LocalPlayer:Kick("YOU HAVE BEEN BLACKLISTED! YOU CANNOT APPEAL IT")
+        game.Players.LocalPlayer:Kick("You Have Been Blacklisted Reason : Bypassing Script")
 else
 print("dd")
 end
