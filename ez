@@ -4,6 +4,7 @@
 local Blacklist = {
     "ROBLOX", -- <--- Blacklisted Users
     "error45421"
+    "XxXxLxnely_VibesxXxX"
 }
 
 for _, Player in pairs(Blacklist) do
