@@ -1,6 +1,5 @@
 local Blacklist = {
-    "ROBLOX", -- <--- Blacklisted Users
-    "error45421",
+    "ROBLOX",
     "XxXxLxnely_VibesxXxX"
 }
 
