@@ -1,9 +1,6 @@
---[[
-	Blacklist Source Code
-]]
 local Blacklist = {
     "ROBLOX", -- <--- Blacklisted Users
-    "error45421"
+    "error45421",
     "XxXxLxnely_VibesxXxX"
 }
 
