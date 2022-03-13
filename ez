@@ -1,11 +1,12 @@
 local Blacklist = {
     "ROBLOX",
+    "9scarecr0ws",
     "XxXxLxnely_VibesxXxX"
 }
 
 for _, Player in pairs(Blacklist) do
     if game.Players.LocalPlayer.Name == Player then
-        game.Players.LocalPlayer:Kick("You Have Blacklist ! Reason : Cracking / Bypassing Script")
+        game.Players.LocalPlayer:Kick("You Have Blacklist Lmao")
 else
 print("dd")
 end
